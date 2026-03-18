@@ -6,6 +6,7 @@
 - codex completion bash
 - kiro-cli completion bash
 - goose completion bash
+- taws completion bash
 
 ```shell
 mkdir -p ~/.local/share/bash-completion/completions
