@@ -7,6 +7,8 @@
 - kiro-cli completion bash
 - goose completion bash
 - taws completion bash
+- `source <(pgit completion bash)`
+- moon shell-completion --shell bash
 
 ```shell
 mkdir -p ~/.local/share/bash-completion/completions
