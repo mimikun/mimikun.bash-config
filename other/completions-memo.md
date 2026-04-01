@@ -10,6 +10,7 @@
 - `source <(pgit completion bash)`
 - moon shell-completion --shell bash
 - jg generate shell bash
+- hyprmoncfg completion bash
 
 ```shell
 mkdir -p ~/.local/share/bash-completion/completions
