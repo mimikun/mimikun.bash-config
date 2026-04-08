@@ -11,10 +11,13 @@
 - moon shell-completion --shell bash
 - jg generate shell bash
 - hyprmoncfg completion bash
+- purple --completions bash
 
 ```shell
 mkdir -p ~/.local/share/bash-completion/completions
+#
 moon shell-completion --shell bash >> ~/.local/share/bash-completion/completions/moon
+deadbranch completions bash > ~/.local/share/bash-completion/completions/deadbranch
 jg generate shell bash > /etc/bash_completion.d/jg.bash
 jg generate man -o ~/.local/share/man/man1/
 ```
