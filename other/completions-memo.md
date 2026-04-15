@@ -12,6 +12,8 @@
 - jg generate shell bash
 - hyprmoncfg completion bash
 - purple --completions bash
+- sharedserver completion bash
+- unifly completions bash
 
 ```shell
 mkdir -p ~/.local/share/bash-completion/completions
