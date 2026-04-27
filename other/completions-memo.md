@@ -15,12 +15,17 @@
 - sharedserver completion bash
 - unifly completions bash
 - tombi completion bash
+- hk completion bash
+- fnox completion bash
+- pitchfork completion bash 
+- `eval "$(fnox activate bash)"`
 
 ```shell
 mkdir -p ~/.local/share/bash-completion/completions
 #
 moon shell-completion --shell bash >> ~/.local/share/bash-completion/completions/moon
 deadbranch completions bash > ~/.local/share/bash-completion/completions/deadbranch
+pitchfork completion bash > ~/.local/share/bash-completion/completions/pitchfork
 jg generate shell bash > /etc/bash_completion.d/jg.bash
 jg generate man -o ~/.local/share/man/man1/
 ```
