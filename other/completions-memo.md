@@ -2,7 +2,7 @@
 
 - doggo completions bash
 - autohand completion bash
-- acli completion bash        
+- acli completion bash
 - codex completion bash
 - kiro-cli completion bash
 - goose completion bash
@@ -14,6 +14,7 @@
 - purple --completions bash
 - sharedserver completion bash
 - unifly completions bash
+- tombi completion bash
 
 ```shell
 mkdir -p ~/.local/share/bash-completion/completions
