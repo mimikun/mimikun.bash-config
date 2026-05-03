@@ -21,6 +21,7 @@
 - `eval "$(fnox activate bash)"`
 - `eval "$(pitchfork activate bash)"`
 - pkl shell-completion bash
+- rvpm completion bash
 
 ```shell
 mkdir -p ~/.local/share/bash-completion/completions
