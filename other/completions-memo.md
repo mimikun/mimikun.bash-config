@@ -34,6 +34,7 @@ aube completion bash   > ~/.local/share/bash-completion/completions/aube
 jg generate shell bash > ~/.local/share/bash-completion/completions/jg
 jg generate man -o ~/.local/share/man/man1/
 rvpm completion bash > ~/.local/share/bash-completion/completions/rvpm
+ttl --completions bash > ~/.local/share/bash-completion/completions/ttl
 
 # Root
 usage --completions bash > /etc/bash_completion.d/usage
