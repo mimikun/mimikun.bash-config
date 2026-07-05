@@ -22,6 +22,7 @@
 - `eval "$(pitchfork activate bash)"`
 - pkl shell-completion bash
 - rvpm completion bash
+- herdr completion bash
 
 ```shell
 mkdir -p ~/.local/share/bash-completion/completions
